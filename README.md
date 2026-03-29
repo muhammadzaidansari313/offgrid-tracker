@@ -1,9 +1,10 @@
 #  Off-Grid Tracker & Emergency Alert System!
 
-##  Project Overview
-🎬 **Off-Grid Tracking System (Google Drive Video):**  
-▶️https://drive.google.com/drive/folders/1wTK9QqFadVSjrsaqQbM4IqSJoxa_0e4v?usp=sharing
+##  Project Overview 
 
+
+
+![WhatsApp Image 2026-03-29 at 7 57 37 AM](https://github.com/user-attachments/assets/a78f68c9-8719-4112-bde0-4928db184258)
 
 The **Off-Grid Tracker System** is a wearable-based tracking and safety solution designed to **monitor people and transmit GPS data without relying on cellular networks, Wi-Fi, or internet services**. The system uses **LoRa communication**, **solar-powered towers**, and **wearable watches** to enable reliable tracking, emergency alerts, and identification in remote or disconnected environments.
 
@@ -13,7 +14,7 @@ This project is especially suitable for **disaster zones, remote areas, military
 
 
 
-![IMG_20251226_150224](https://github.com/user-attachments/assets/6be466de-474c-4658-89f8-fd969934d335)
+
 
 
 ##  Objectives
@@ -89,7 +90,8 @@ The Off-Grid Tracker & Emergency Alert System operates through coordinated inter
 ---
 
 ### **1. Control Panel**
-![IMG_20251226_140911](https://github.com/user-attachments/assets/864a334e-f75f-4b8f-9752-fff1ab3fa4bc)
+![WhatsApp Image 2026-03-29 at 7 53 23 AM](https://github.com/user-attachments/assets/291c5696-3572-4060-9f1a-cbca464c2b8a)
+
 
 
 The Control Panel acts as the **central monitoring and decision-making unit** of the system.
@@ -110,11 +112,12 @@ The Control Panel acts as the **central monitoring and decision-making unit** of
 ---
 
 ### **2. Tracking Poles**
+![WhatsApp Image 2026-03-29 at 7 53 31 AM](https://github.com/user-attachments/assets/2cf063cc-3591-4ec3-9694-47ee1f335697)
 
-![IMG_20251226_141116](https://github.com/user-attachments/assets/235da4c8-2933-4b5a-b33b-797cc61bf1c7)
-![IMG_20251226_141259](https://github.com/user-attachments/assets/dac278dc-1e44-4142-9618-3a7636cd84d2)
 
-Tracking poles serve as **checkpoint units**, installed at regular intervals (approximately **5–10 km**) along the route.
+
+Tracking poles serve as **checkpoint units**, installed at regular ![Uploading WhatsApp Image 2026-03-29 at 7.53.31 AM.jpeg…]()
+intervals (approximately **5–10 km**) along the route.
 
 **Components:**
 
@@ -132,8 +135,11 @@ Tracking poles serve as **checkpoint units**, installed at regular intervals (ap
 ---
 
 ### **3. Smart Tracking Watch**
+![WhatsApp Image 2026-03-29 at 7 53 33 AM](https://github.com/user-attachments/assets/59a02a81-8055-46b4-b182-55d8ce936f00)
 
-Each user is provided with a smart tracking watch for **personal safety and location tracking**.
+
+Each user is provided with a smart tracking watch for **personal safety ![Uploading WhatsApp Image 2026-03-29 at 7.53.33 AM.jpeg…]()
+and location tracking**.
 
 **Components:**
 
@@ -353,15 +359,13 @@ The Data Flow Diagram (DFD) represents how data moves through the Off-Grid Track
 
 ---
 
-##⏭️ ROUND 2 EXPECTED IMPROVEMENTS
 
-
-### **1. GPS Location Integration**
+###  GPS Location Integration**
 
 Each smart tracking watch is equipped with an integrated GPS module that provides accurate real-time location data. During emergency situations, when the user presses the SOS button, the watch transmits precise GPS coordinates (latitude and longitude) to the control panel, enabling rescue teams to locate and assist the user quickly and accurately.
 
 
-### **2. Extended LoRa Communication Range (Up to 15 km)**
+###  Extended LoRa Communication Range (Up to 15 km)**
 
 The system uses LoRa for long-range, low-power communication between watches, poles, and the control panel, with an effective range of up to **15 km**.
 
@@ -373,17 +377,13 @@ If a user moves beyond the LoRa coverage area:
 This improvement ensures **reliable data delivery and zero data loss**, even in extremely remote locations.
 
 
-### **3. NFC-Based User Identification**
+### NFC-Based User Identification**
 
 Each smart tracking watch contains a unique NFC tag for secure and accurate user identification. When the user taps the watch on a tracking pole:
 
 * The pole reads the NFC tag.
 * The user ID along with checkpoint information is transmitted to the control panel.
 
-This feature prevents user misidentification and ensures precise tracking when multiple users are present on the same route.
-
-##  PredIcted  Improvements (FUTURISTIC SCOPE)
-![IMG_20251226_150210](https://github.com/user-attachments/assets/db47d8ca-408d-40bc-9024-9a7fae1f4fe1)
 
 *  **Mobile App Dashboard**
   Develop a mobile application to visualize real-time GPS locations of users on an interactive map (e.g., Google Maps). This will make tracking, monitoring, and emergency response more intuitive and accessible.
@@ -402,18 +402,18 @@ This feature prevents user misidentification and ensures precise tracking when m
 
 ##  Team
 
-* **Team Name:** *Neogen Innovators*
+* **Team Name:** *TECH SYNDICATE*
 * **Members:** 
 
-    *Sumaira*
+    *MOHD ZAID ANSARI*
 
-    *Shiny*
+    *VEER VASHISHTH*
 
-    *Mohd Zaid Anasri*
+    *KARAMDEEP SINGH*
 
-    *Nevid Alam*
+    *SAHIL CHAHAL*
     
-* **Hackathon:** *HACK THE WINTER(THE SECOND WAVE)*
+* **Hackathon:** *HACKRUST 1.0*
 
 ---
 
